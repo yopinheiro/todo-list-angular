@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README para o seu projeto Angular versão 15 de Todolist, utilizando o `json-server` como servidor de dados:
-
----
-
 # Todolist Angular 15
 
 Este projeto foi gerado com Angular CLI versão 15.0.0. Inclui uma aplicação Todolist básica integrada com `json-server` para simular um backend RESTful através do arquivo `db.json`.
