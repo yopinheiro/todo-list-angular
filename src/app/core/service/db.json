@@ -1,0 +1,399 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "descricao": "Fazer compras de supermercado",
+      "concluida": true
+    },
+    {
+      "id": "2",
+      "descricao": "Estudar para a prova de matemática",
+      "concluida": true
+    },
+    {
+      "id": "7",
+      "descricao": "Organizar documentos",
+      "concluida": true
+    },
+    {
+      "id": "8",
+      "descricao": "Planejar as férias de verão",
+      "concluida": false
+    },
+    {
+      "id": "9",
+      "descricao": "Atualizar o currículo profissional",
+      "concluida": false
+    },
+    {
+      "id": "10",
+      "descricao": "Resolver problemas na rede Wi-Fi",
+      "concluida": false
+    },
+    {
+      "id": "11",
+      "descricao": "Fazer exercícios físicos",
+      "concluida": false
+    },
+    {
+      "id": "12",
+      "descricao": "Comprar presentes de aniversário",
+      "concluida": false
+    },
+    {
+      "id": "13",
+      "descricao": "Aprender a cozinhar uma nova receita",
+      "concluida": false
+    },
+    {
+      "id": "14",
+      "descricao": "Assistir a um filme recomendado",
+      "concluida": false
+    },
+    {
+      "id": "15",
+      "descricao": "Limpar o jardim",
+      "concluida": false
+    },
+    {
+      "id": "16",
+      "descricao": "Estudar um novo idioma",
+      "concluida": false
+    },
+    {
+      "id": "17",
+      "descricao": "Preparar uma apresentação para o trabalho",
+      "concluida": false
+    },
+    {
+      "id": "18",
+      "descricao": "Consertar o pneu furado da bicicleta",
+      "concluida": false
+    },
+    {
+      "id": "19",
+      "descricao": "Visitar um museu na cidade",
+      "concluida": false
+    },
+    {
+      "id": "20",
+      "descricao": "Resolver pendências financeiras",
+      "concluida": false
+    },
+    {
+      "id": "21",
+      "descricao": "Comprar um presente para o amigo secreto",
+      "concluida": false
+    },
+    {
+      "id": "22",
+      "descricao": "Revisar o contrato de locação",
+      "concluida": false
+    },
+    {
+      "id": "23",
+      "descricao": "Instalar novos aplicativos no celular",
+      "concluida": false
+    },
+    {
+      "id": "24",
+      "descricao": "Estudar para o exame de certificação",
+      "concluida": false
+    },
+    {
+      "id": "25",
+      "descricao": "Organizar o armário do quarto",
+      "concluida": false
+    },
+    {
+      "id": "26",
+      "descricao": "Planejar um jantar especial",
+      "concluida": false
+    },
+    {
+      "id": "27",
+      "descricao": "Correr no parque pela manhã",
+      "concluida": false
+    },
+    {
+      "id": "28",
+      "descricao": "Enviar convites para a festa de aniversário",
+      "concluida": false
+    },
+    {
+      "id": "29",
+      "descricao": "Atualizar as redes sociais",
+      "concluida": false
+    },
+    {
+      "id": "30",
+      "descricao": "Resolver problemas com o computador",
+      "concluida": false
+    },
+    {
+      "id": "31",
+      "descricao": "Estudar as novas funcionalidades do software",
+      "concluida": false
+    },
+    {
+      "id": "32",
+      "descricao": "Consertar a cerca do jardim",
+      "concluida": false
+    },
+    {
+      "id": "33",
+      "descricao": "Preparar um plano de ação para o projeto",
+      "concluida": false
+    },
+    {
+      "id": "34",
+      "descricao": "Comprar ingressos para o teatro",
+      "concluida": false
+    },
+    {
+      "id": "35",
+      "descricao": "Aprender a tocar uma nova música no violão",
+      "concluida": false
+    },
+    {
+      "id": "36",
+      "descricao": "Visitar parentes no fim de semana",
+      "concluida": false
+    },
+    {
+      "id": "37",
+      "descricao": "Atualizar o sistema operacional do computador",
+      "concluida": false
+    },
+    {
+      "id": "38",
+      "descricao": "Marcar reunião com o cliente",
+      "concluida": false
+    },
+    {
+      "id": "39",
+      "descricao": "Fazer um curso online de fotografia",
+      "concluida": false
+    },
+    {
+      "id": "40",
+      "descricao": "Reorganizar a agenda semanal",
+      "concluida": false
+    },
+    {
+      "id": "41",
+      "descricao": "Consertar a máquina de lavar roupa",
+      "concluida": false
+    },
+    {
+      "id": "42",
+      "descricao": "Estudar para o teste de direção",
+      "concluida": false
+    },
+    {
+      "id": "43",
+      "descricao": "Planejar uma viagem de fim de semana",
+      "concluida": false
+    },
+    {
+      "id": "44",
+      "descricao": "Limpar as janelas da casa",
+      "concluida": false
+    },
+    {
+      "id": "45",
+      "descricao": "Organizar os arquivos digitais",
+      "concluida": false
+    },
+    {
+      "id": "46",
+      "descricao": "Fazer um check-up médico",
+      "concluida": false
+    },
+    {
+      "id": "47",
+      "descricao": "Comprar um presente de aniversário para o cônjuge",
+      "concluida": false
+    },
+    {
+      "id": "48",
+      "descricao": "Estudar para o exame de admissão na universidade",
+      "concluida": false
+    },
+    {
+      "id": "49",
+      "descricao": "Resolver problemas de encanamento na cozinha",
+      "concluida": false
+    },
+    {
+      "id": "50",
+      "descricao": "Participar de uma conferência profissional",
+      "concluida": false
+    },
+    {
+      "id": "51",
+      "descricao": "Fazer uma caminhada matinal",
+      "concluida": false
+    },
+    {
+      "id": "52",
+      "descricao": "Atualizar o software de segurança do computador",
+      "concluida": false
+    },
+    {
+      "id": "53",
+      "descricao": "Organizar os documentos pessoais",
+      "concluida": false
+    },
+    {
+      "id": "54",
+      "descricao": "Revisar o contrato de prestação de serviços",
+      "concluida": false
+    },
+    {
+      "id": "55",
+      "descricao": "Comprar novos móveis para a sala de estar",
+      "concluida": false
+    },
+    {
+      "id": "56",
+      "descricao": "Estudar para o exame de certificação em TI",
+      "concluida": false
+    },
+    {
+      "id": "57",
+      "descricao": "Planejar um churrasco com os amigos",
+      "concluida": false
+    },
+    {
+      "id": "58",
+      "descricao": "Instalar prateleiras na despensa",
+      "concluida": false
+    },
+    {
+      "id": "59",
+      "descricao": "Limpar o filtro do ar condicionado",
+      "concluida": false
+    },
+    {
+      "id": "60",
+      "descricao": "Estudar para a prova de história",
+      "concluida": false
+    },
+    {
+      "id": "61",
+      "descricao": "Resolver problemas de acesso ao sistema",
+      "concluida": false
+    },
+    {
+      "id": "62",
+      "descricao": "Comprar um novo celular",
+      "concluida": false
+    },
+    {
+      "id": "63",
+      "descricao": "Organizar o armário da cozinha",
+      "concluida": false
+    },
+    {
+      "id": "64",
+      "descricao": "Planejar um jantar romântico",
+      "concluida": false
+    },
+    {
+      "id": "65",
+      "descricao": "Aprender a programar em Python",
+      "concluida": false
+    },
+    {
+      "id": "66",
+      "descricao": "Visitar a exposição de arte na galeria",
+      "concluida": false
+    },
+    {
+      "id": "67",
+      "descricao": "Atualizar o website da empresa",
+      "concluida": false
+    },
+    {
+      "id": "68",
+      "descricao": "Marcar consulta no dentista",
+      "concluida": false
+    },
+    {
+      "id": "69",
+      "descricao": "Fazer uma lista de compras para o mês",
+      "concluida": false
+    },
+    {
+      "id": "70",
+      "descricao": "Resolver problemas de conexão de internet",
+      "concluida": false
+    },
+    {
+      "id": "71",
+      "descricao": "Estudar para o teste de aptidão física",
+      "concluida": false
+    },
+    {
+      "id": "72",
+      "descricao": "Organizar os livros na estante",
+      "concluida": false
+    },
+    {
+      "id": "73",
+      "descricao": "Consertar a cerca do jardim",
+      "concluida": false
+    },
+    {
+      "id": "74",
+      "descricao": "Preparar um relatório de vendas",
+      "concluida": false
+    },
+    {
+      "id": "75",
+      "descricao": "Comprar um presente para o amigo secreto do trabalho",
+      "concluida": false
+    },
+    {
+      "id": "76",
+      "descricao": "Estudar para o exame de matemática avançada",
+      "concluida": false
+    },
+    {
+      "id": "77",
+      "descricao": "Planejar um passeio de bicicleta",
+      "concluida": false
+    },
+    {
+      "id": "78",
+      "descricao": "Limpar o filtro da piscina",
+      "concluida": false
+    },
+    {
+      "id": "79",
+      "descricao": "Organizar o guarda-roupa",
+      "concluida": false
+    },
+    {
+      "id": "80",
+      "descricao": "Resolver problemas com a máquina de lavar louça",
+      "concluida": false
+    },
+    {
+      "id": "931",
+      "descricao": "Vamos planejar as nossas férias uhuul :)",
+      "concluida": false
+    },
+    {
+      "id": "662",
+      "descricao": "Estudar ingles",
+      "concluida": false
+    },
+    {
+      "id": "230",
+      "descricao": "Comprar um carro novo :)",
+      "concluida": false
+    }
+  ]
+}

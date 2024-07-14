@@ -1,0 +1,42 @@
+<header>
+  <div>
+    <nav class="navbar bg-emix">
+      <div class="container-fluid">
+        <span class="navbar-brand mb-0 h1 bs-light">
+          <b>TODO</b>
+          LIST
+        </span>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<aside class="mt-5 margin-r-l">
+  <form
+    class="form-group"
+    [formGroup]="formAddNewTask"
+    (ngSubmit)="onSubmitForm()"
+  >
+    <div class="input-group">
+      <input
+        type="text"
+        class="form-control"
+        id="exampleFormControlInput1"
+        placeholder="Digite uma nova tarefa..."
+        formControlName="newtask"
+        maxlength="60"
+      />
+      <button
+        class="btn btn-info text-button-add"
+        type="button"
+        (click)="onSubmitForm()"
+      >
+        ADICIONAR
+      </button>
+    </div>
+  </form>
+
+  <div class="mt-5">
+    <app-to-do-list></app-to-do-list>
+  </div>
+</aside>
